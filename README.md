@@ -8,4 +8,5 @@
 Ashm8500/Ashm8500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hello I'm Ashley Miller. I'm interested in having the community understand mental health and educate people on there symptoms. There is so much going on in the world and COVID-19 has effected the mental health of our community's. I would like to state
+Hello I'm Ashley Miller. I'm interested in having the community understand mental health and educate people on there symptoms. There is so much going on in the world and COVID-19 has effected the mental health of our community's. I would like to get a project together ghst informs our community and educate them on Mental Illness.I can be reached @ ashleym@recoverycenter.org or 1-513-600-8500 
+
